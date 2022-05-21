@@ -1,10 +1,7 @@
 # Добро пожаловать 👋
-[![GitHub Banner](./intro.gif)](https://github.com/RussiaFPS)
-
-
 
 ## Some Repositories 📌
-<a href="https://github.com/RussiaFPS/e-manager">
+<a href="https://github.com/aiivar/comics-spring-boot">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RussiaFPS&repo=e-manager&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff" />
 </a>
 
@@ -29,17 +26,9 @@
 </a>
 
 ## Skills 💼
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Premiere-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Unit%20testing-informational?style=flat&logo=Jasmine&logoColor=white&color=4AB197)
 
 ### Заключение 📣
