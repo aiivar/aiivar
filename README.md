@@ -1,29 +1,13 @@
 # Добро пожаловать 👋
 
 ## Some Repositories 📌
-<a href="https://github.com/aiivar/comics-spring-boot">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RussiaFPS&repo=e-manager&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff" />
-</a>
-
-<br>
-
-<a href="https://github.com/RussiaFPS/Fallout-Terminal-Game">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RussiaFPS&repo=Fallout-Terminal-Game&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff" />
-</a>
-
-<a href="https://github.com/RussiaFPS/tourist">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RussiaFPS&repo=tourist&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aiivar&repo=comics-spring-boot)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aiivar&repo=anti-plagiarism-microservice)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aiivar&repo=pdf-generator)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## GitHub Stats 📈 
-<a href="https://github.com/RussiaFPS">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RussiaFPS&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff" />
-</a>
 
-<a href="https://github.com/RussiaFPS">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=RussiaFPS&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff" alt="RussiaFPS GitHub Stats" />
-</a>
 
 ## Skills 💼
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
