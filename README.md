@@ -9,4 +9,4 @@
 ## Skills 💼
 
 ## GitHub Stats 📈 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiivar)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiivar&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
